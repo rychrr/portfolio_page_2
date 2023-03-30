@@ -82,7 +82,7 @@
 
 ### Set ups <a name ="setup"> </a>
 To get a local copy up and running, follow these steps.
-- Go to the hello_microverse [github repo](git@github.com:rychrr/portfolio_page.git)
+- Go to the Portfolio Project Page [github repo](git@github.com:rychrr/portfolio_page.git)
 - Clone the repository to your local machine using:
    
    ```
@@ -102,7 +102,7 @@ To get a local copy up and running, follow these steps.
 Install this project using:
 
    ```
-      git clone git@github.com:rychrr/hello_microverse.git
+      git clone git@github.com:rychrr/portfolio_page.git
    ```
 
 ### Usage <a name="usage"> </a>
@@ -136,9 +136,9 @@ You can deploy this project by:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Interactions: **Improving interactions with Javascript**
-- Page Designs: **More intuitive Designs and themes for Users**
-- Auto Response: **Auto response to interactions for livechat, direct messaging**
+- **Interactions:** Improving interactions with Javascript
+- **Page Designs:** More intuitive Designs and themes for Users
+- **Auto Response:** Auto response to interactions for livechat, direct messaging
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,10 +183,10 @@ for their support and guidiance during the project building.
     - Ans: Frequently, we review the code and welcome requests for changes from the community  
 
 ### Developer
-- **[Developer]**
-  - [Ejike Richard]
-- **[Experience]**
- - [3 years]
+- **Developer**
+  - Ejike Richard
+- **Experience**
+ - 3 years
 
 <!-- LICENSE -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
