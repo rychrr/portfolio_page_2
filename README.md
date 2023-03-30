@@ -50,7 +50,6 @@
 </details>
 
 <!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 - **HTML to prepare the page semantics**
@@ -172,7 +171,6 @@ I would like to thank :
 - [Clinton](https://github.com/clin2on3mun) 
 
 for their support and guidiance during the project building.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
@@ -183,9 +181,9 @@ for their support and guidiance during the project building.
     - Ans: Frequently, we review the code and welcome requests for changes from the community  
 
 ### Developer
-- **Developer**
-  - Ejike Richard
-- **Experience**
+- **DEVELOPER**
+  - Ejike Richard 
+- **EXPERIENCE**
  - 3 years
 
 <!-- LICENSE -->
