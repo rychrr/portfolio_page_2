@@ -1,14 +1,24 @@
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
+body {
+  background: #e5e5e5;
+  width: 375px;
+}
+
 .p_one_container {
   width: 327px;
-  height: 718px;
   border-bottom-left-radius: 50px;
-  background: #fff;
+  background-color: #fff;
   display: flex;
   flex-flow: column nowrap;
-  margin-left: 10px;
-  margin-right: 20px;
+  padding: 20px;
+}
+
+.top_nav {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .my_logo {
@@ -22,11 +32,9 @@
   text-decoration: none;
 }
 
-.top_nav {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  align-items: center;
+.intro_desc_conn {
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 
 .self_intro {
@@ -36,7 +44,7 @@
   font-size: 40px;
   line-height: 52px;
   color: #172b4d;
-  margin-top: 50px;
+  margin-bottom: 0;
 }
 
 .self_desc {
@@ -47,6 +55,7 @@
   line-height: 24px;
   color: #344563;
   text-align: justify;
+  padding-top: 0;
 }
 
 .let_connect {
@@ -73,9 +82,8 @@
   min-height: 20px;
 }
 
-.intro_desc_conn {
+.p1_main_section {
   background-image: url("./img/header_shapes_mobile.png");
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 50px;
 }
